@@ -1,0 +1,12 @@
+2 : {
+    semana : {
+      "Domingo" : ["Domingo, descance depois se organize para iniciar a semana."],
+      "Segunda" : ["Físisca", "Biologia", "Geografia", "História", "Artes"],
+      "Terça" : ["Química", "Português", "Português", "Geografia", "História"],
+      "Quarta" : ["Filosofia", "Matemática", "Sociologia", "Física", "Matemática"],
+      "Quinta" : ["Educ. Física", "Matemática", "Biologia", "Undefined", "Inglês"],
+      "Sexta" : ["Português", "Quimica", "Proj. de Vida", "Matemática"],
+      "Sábado" : ["Sábado, vá descançar"]
+    
+    }
+}
